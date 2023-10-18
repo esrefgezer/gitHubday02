@@ -3,7 +3,7 @@ public class gitHubday02_1 {
 
         System.out.println("Merhaba tekrardan GitHub");
 
-
+        System.out.println("Ikinci satir ekleme islemi");
 
     }
 }
